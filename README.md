@@ -1,1 +1,1 @@
-# Legendre_FLANN
+# Legendre BVP
