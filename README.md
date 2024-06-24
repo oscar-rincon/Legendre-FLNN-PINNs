@@ -1,1 +1,1 @@
-# Legendre BVP
+# Legendre PINNs
